@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Azer 
 
-<!--
-**DALY-Azer/DALY-Azer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year engineering student at **CentraleSupélec** (France), with a strong maths background (MP* prep) and a growing interest in **quantitative finance** and **trading**.
 
-Here are some ideas to get you started:
+###  Current goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build a solid foundations in **financial modelling**, **derivatives**, and **algorithmic trading**
+- Prepare for a **gap year (césure)** with internships as a **quantitative analyst** or **trader** (hedge funds / trading desks)
+- Develop clean, reproducible projects in Python .
+
+### � What I'm working on now
+
+-  **Monte Carlo Option Pricing in Python**  
+  Simulating Geometric Brownian Motion, pricing European options by Monte Carlo, and validating results against Black–Scholes.  
+  
+
+(Next: variance reduction methods and a first pricing of exotic options.)
+
+###  Tech & tools
+
+- **Languages:** Python (NumPy, pandas, matplotlib, SciPy)
+- **Topics:** probability & statistics, numerical methods, financial modelling
+- **Tools:** Jupyter, Git, GitHub, VS Code
+
+###  Contact
+
+- LinkedIn: https://www.linkedin.com/in/azer-daly-b40514382/ 
+- Email: azer.daly@student-cs.fr
