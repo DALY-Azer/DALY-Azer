@@ -8,13 +8,6 @@ I'm a first-year engineering student at **CentraleSupélec** (France), with a st
 - Prepare for a **gap year (césure)** with internships as a **quantitative analyst** or **trader** (hedge funds / trading desks)
 - Develop clean, reproducible projects in Python .
 
-### � What I'm working on now
-
--  **Monte Carlo Option Pricing in Python**  
-  Simulating Geometric Brownian Motion, pricing European options by Monte Carlo, and validating results against Black–Scholes.  
-  
-
-(Next: variance reduction methods and a first pricing of exotic options.)
 
 ###  Tech & tools
 
